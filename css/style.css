@@ -1,0 +1,15 @@
+.interface {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    position: relative;
+    align-self: end;
+}
+
+img {
+    height: 250px;
+}
